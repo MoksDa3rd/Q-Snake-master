@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sid-sr/Q-Snake">
+  <a href="https://github.com/MoksDa3rd/Q-Snake">
     <img src="./src/img/cyborg-25.png" width=250>
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 <h4 align='center'>An interactive Q-learning web visualiser for Snake built with React.js </h4>
 <p align='center'>
-  https://sid-sr.github.io/Q-Snake/
+  
 </p>
 <p align="center">
   <a href='https://lbesson.mit-license.org/'>
